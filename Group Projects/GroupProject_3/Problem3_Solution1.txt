@@ -1,0 +1,27 @@
+CREATE OR REPLACE PROCEDURE PROBLEM3_SOLUTION1 AS
+a NUMBER;              --declaring the variables
+b VARCHAR2(20);
+
+BEGIN
+
+FOR tid IN (SELECT salary into a FROM Translator)
+LOOP
+IF a>60000 THEN
+UPDATE BOOK  SET Edition=Edition*1.50 where TID = tid;
+ELSIF a<30000 THEN
+UPDATE BOOK SET Edition= Edition*1.35 where TID=tid;
+ELSE
+UPDATE BOOK SET Edition= Edition*1.10 where TID=tid;
+END IF;
+END LOOP;
+
+DBMS_OUTPUT.PUT_LINE('BTITLE' || ' ' || 'CATEGORY' || ' ' || 'EDITION' || ' ' || 'RELEASE_YEAR' ||' ' || 'TID');
+ FOR object IN (select * from BOOK order by EDITION)
+ LOOP
+ DBMS_OUTPUT.PUT_LINE(object.BTITLE || ' ' || object.CATEGORY || ' ' || object.EDITION || ' ' || object.RELEASE_YEAR || ' ' || object.TID);
+ END LOOP;
+
+
+
+
+END PROBLEM3_SOLUTION1;

@@ -1,0 +1,5 @@
+Insert into TEAM (TEAM_NAME,TEAM_TYPE,DATE_FORMED) values ('Happy','Nursing Assistance',to_date('01-MAY-17','DD-MON-RR'));
+Insert into TEAM (TEAM_NAME,TEAM_TYPE,DATE_FORMED) values ('Hello','Ancillary Assistance',to_date('01-JUN-17','DD-MON-RR'));
+Insert into TEAM (TEAM_NAME,TEAM_TYPE,DATE_FORMED) values ('Team_3','Copayment Assistance',to_date('01-JUL-17','DD-MON-RR'));
+Insert into TEAM (TEAM_NAME,TEAM_TYPE,DATE_FORMED) values ('Team_4','Premium Assistance',to_date('01-AUG-17','DD-MON-RR'));
+Insert into TEAM (TEAM_NAME,TEAM_TYPE,DATE_FORMED) values ('Team_5','Travel Assistance',to_date('01-SEP-17','DD-MON-RR'));

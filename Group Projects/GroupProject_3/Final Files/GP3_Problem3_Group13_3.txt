@@ -1,0 +1,14 @@
+Connecting to the database CS4513.
+BTITLE CATEGORY EDITION RELEASE_YEAR TID
+Jurassic Park Novel 16 1984 101
+The Power of Habit Business 10 2001 102
+Heidi Children 27 1960 104
+Anna Karenina Novel 40 1994 103
+War and Peace Novel 51 1968 104
+The Lion King Children 10 1990 103
+Rich Dad Business 18 1997 103
+The Goal Business 28 1963 103
+Rework Business 6 2003 102
+Beautiful Mind Phycology 3 1979 102
+Process exited.
+Disconnecting from the database CS4513.

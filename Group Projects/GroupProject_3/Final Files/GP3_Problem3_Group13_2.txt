@@ -1,0 +1,7 @@
+Connecting to the database CS4513.
+Name is: 1
+1
+2
+3
+Process exited.
+Disconnecting from the database CS4513.

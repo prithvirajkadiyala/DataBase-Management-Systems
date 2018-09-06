@@ -1,0 +1,389 @@
+------------------------------------------------------------------------------------------------
+	WELCOME TO THE DATABASE OF GROUP PROJECT2 PROBLEM2
+------------------------------------------------------------------------------------------------
+Please Enter your option(1-4):
+1. Add the data from the PL-SQL into CUSTOMER
+2. Update Translator Salaries
+3. See all the data from Translatortable and Customer Table
+4. Quit
+
+Please take care. The System is CASE-SENSITIVE
+
+3
+Customer Table
+Author_ID | Author_Name | Age | Number of Publications
+200|John|10|Children
+201|Emily|7|Adult
+202|Ashely|19|Adult
+203|Edward|3|Children
+204|Wu|12|Adult
+Translator Table
+Translator_ID|TRANSLATOR_NAME|SALARY
+101|Mark|58000
+102|Black|25000
+103|Ed|30000
+104|Mark|82000
+------------------------------------------------------------------------------------------------
+	WELCOME TO THE DATABASE OF GROUP PROJECT2 PROBLEM2
+------------------------------------------------------------------------------------------------
+Please Enter your option(1-4):
+1. Add the data from the PL-SQL into CUSTOMER
+2. Update Translator Salaries
+3. See all the data from Translatortable and Customer Table
+4. Quit
+
+Please take care. The System is CASE-SENSITIVE
+
+1
+Insert Customer ID
+205
+Insert Customer Name
+SaiTeja
+Insert Customer Level
+Adult
+Customer_ID | Customer_Name | Number of orders | Customer_Level
+200|John|10|Children
+201|Emily|7|Adult
+202|Ashely|19|Adult
+203|Edward|3|Children
+204|Wu|12|Adult
+205|SaiTeja|13|Adult
+------------------------------------------------------------------------------------------------
+	WELCOME TO THE DATABASE OF GROUP PROJECT2 PROBLEM2
+------------------------------------------------------------------------------------------------
+Please Enter your option(1-4):
+1. Add the data from the PL-SQL into CUSTOMER
+2. Update Translator Salaries
+3. See all the data from Translatortable and Customer Table
+4. Quit
+
+Please take care. The System is CASE-SENSITIVE
+
+3
+Customer Table
+Author_ID | Author_Name | Age | Number of Publications
+200|John|10|Children
+201|Emily|7|Adult
+202|Ashely|19|Adult
+203|Edward|3|Children
+204|Wu|12|Adult
+205|SaiTeja|13|Adult
+Translator Table
+Translator_ID|TRANSLATOR_NAME|SALARY
+101|Mark|58000
+102|Black|25000
+103|Ed|30000
+104|Mark|82000
+------------------------------------------------------------------------------------------------
+	WELCOME TO THE DATABASE OF GROUP PROJECT2 PROBLEM2
+------------------------------------------------------------------------------------------------
+Please Enter your option(1-4):
+1. Add the data from the PL-SQL into CUSTOMER
+2. Update Translator Salaries
+3. See all the data from Translatortable and Customer Table
+4. Quit
+
+Please take care. The System is CASE-SENSITIVE
+
+1
+Insert Customer ID
+206
+Insert Customer Name
+Ivan
+Insert Customer Level
+Children
+Customer_ID | Customer_Name | Number of orders | Customer_Level
+200|John|10|Children
+201|Emily|7|Adult
+202|Ashely|19|Adult
+203|Edward|3|Children
+204|Wu|12|Adult
+205|SaiTeja|13|Adult
+206|Ivan|7|Children
+------------------------------------------------------------------------------------------------
+	WELCOME TO THE DATABASE OF GROUP PROJECT2 PROBLEM2
+------------------------------------------------------------------------------------------------
+Please Enter your option(1-4):
+1. Add the data from the PL-SQL into CUSTOMER
+2. Update Translator Salaries
+3. See all the data from Translatortable and Customer Table
+4. Quit
+
+Please take care. The System is CASE-SENSITIVE
+
+3
+Customer Table
+Author_ID | Author_Name | Age | Number of Publications
+200|John|10|Children
+201|Emily|7|Adult
+202|Ashely|19|Adult
+203|Edward|3|Children
+204|Wu|12|Adult
+205|SaiTeja|13|Adult
+206|Ivan|7|Children
+Translator Table
+Translator_ID|TRANSLATOR_NAME|SALARY
+101|Mark|58000
+102|Black|25000
+103|Ed|30000
+104|Mark|82000
+------------------------------------------------------------------------------------------------
+	WELCOME TO THE DATABASE OF GROUP PROJECT2 PROBLEM2
+------------------------------------------------------------------------------------------------
+Please Enter your option(1-4):
+1. Add the data from the PL-SQL into CUSTOMER
+2. Update Translator Salaries
+3. See all the data from Translatortable and Customer Table
+4. Quit
+
+Please take care. The System is CASE-SENSITIVE
+
+1
+Insert Customer ID
+207
+Insert Customer Name
+Prithvi
+Insert Customer Level
+Anything
+Customer_ID | Customer_Name | Number of orders | Customer_Level
+200|John|10|Children
+201|Emily|7|Adult
+202|Ashely|19|Adult
+203|Edward|3|Children
+204|Wu|12|Adult
+205|SaiTeja|13|Adult
+206|Ivan|7|Children
+207|Prithvi|10|Anything
+------------------------------------------------------------------------------------------------
+	WELCOME TO THE DATABASE OF GROUP PROJECT2 PROBLEM2
+------------------------------------------------------------------------------------------------
+Please Enter your option(1-4):
+1. Add the data from the PL-SQL into CUSTOMER
+2. Update Translator Salaries
+3. See all the data from Translatortable and Customer Table
+4. Quit
+
+Please take care. The System is CASE-SENSITIVE
+
+3
+Customer Table
+Author_ID | Author_Name | Age | Number of Publications
+200|John|10|Children
+201|Emily|7|Adult
+202|Ashely|19|Adult
+203|Edward|3|Children
+204|Wu|12|Adult
+205|SaiTeja|13|Adult
+206|Ivan|7|Children
+207|Prithvi|10|Anything
+Translator Table
+Translator_ID|TRANSLATOR_NAME|SALARY
+101|Mark|58000
+102|Black|25000
+103|Ed|30000
+104|Mark|82000
+------------------------------------------------------------------------------------------------
+	WELCOME TO THE DATABASE OF GROUP PROJECT2 PROBLEM2
+------------------------------------------------------------------------------------------------
+Please Enter your option(1-4):
+1. Add the data from the PL-SQL into CUSTOMER
+2. Update Translator Salaries
+3. See all the data from Translatortable and Customer Table
+4. Quit
+
+Please take care. The System is CASE-SENSITIVE
+
+2
+Translator Table before Update
+Translator_ID|TRANSLATOR_NAME|SALARY
+101|Mark|58000
+102|Black|25000
+103|Ed|30000
+104|Mark|82000
+The System is CASE-SENSITIVE
+Author_Name
+Morgan
+Cruz
+Adams
+Perry
+Derek
+Derek
+Lewis
+Alice
+Insert Author Name from Above
+Morgan
+Translator Table AFTER Update
+Translator_ID|TRANSLATOR_NAME|SALARY
+101|Mark|59160
+102|Black|26250
+103|Ed|33000
+104|Mark|90200
+------------------------------------------------------------------------------------------------
+	WELCOME TO THE DATABASE OF GROUP PROJECT2 PROBLEM2
+------------------------------------------------------------------------------------------------
+Please Enter your option(1-4):
+1. Add the data from the PL-SQL into CUSTOMER
+2. Update Translator Salaries
+3. See all the data from Translatortable and Customer Table
+4. Quit
+
+Please take care. The System is CASE-SENSITIVE
+
+3
+2Customer Table
+Author_ID | Author_Name | Age | Number of Publications
+200|John|10|Children
+201|Emily|7|Adult
+202|Ashely|19|Adult
+203|Edward|3|Children
+204|Wu|12|Adult
+205|SaiTeja|13|Adult
+206|Ivan|7|Children
+207|Prithvi|10|Anything
+Translator Table
+Translator_ID|TRANSLATOR_NAME|SALARY
+101|Mark|59160
+102|Black|26250
+103|Ed|33000
+104|Mark|90200
+------------------------------------------------------------------------------------------------
+	WELCOME TO THE DATABASE OF GROUP PROJECT2 PROBLEM2
+------------------------------------------------------------------------------------------------
+Please Enter your option(1-4):
+1. Add the data from the PL-SQL into CUSTOMER
+2. Update Translator Salaries
+3. See all the data from Translatortable and Customer Table
+4. Quit
+
+Please take care. The System is CASE-SENSITIVE
+
+
+Translator Table before Update
+Translator_ID|TRANSLATOR_NAME|SALARY
+101|Mark|59160
+102|Black|26250
+103|Ed|33000
+104|Mark|90200
+The System is CASE-SENSITIVE
+Author_Name
+Morgan
+Cruz
+Adams
+Perry
+Derek
+Derek
+Lewis
+Alice
+Insert Author Name from Above
+Alice
+Translator Table AFTER Update
+Translator_ID|TRANSLATOR_NAME|SALARY
+101|Mark|60343.2
+102|Black|28875
+103|Ed|34650
+104|Mark|92004
+------------------------------------------------------------------------------------------------
+	WELCOME TO THE DATABASE OF GROUP PROJECT2 PROBLEM2
+------------------------------------------------------------------------------------------------
+Please Enter your option(1-4):
+1. Add the data from the PL-SQL into CUSTOMER
+2. Update Translator Salaries
+3. See all the data from Translatortable and Customer Table
+4. Quit
+
+Please take care. The System is CASE-SENSITIVE
+
+3
+Customer Table
+Author_ID | Author_Name | Age | Number of Publications
+200|John|10|Children
+201|Emily|7|Adult
+202|Ashely|19|Adult
+203|Edward|3|Children
+204|Wu|12|Adult
+205|SaiTeja|13|Adult
+206|Ivan|7|Children
+207|Prithvi|10|Anything
+Translator Table
+Translator_ID|TRANSLATOR_NAME|SALARY
+101|Mark|60343.2
+102|Black|28875
+103|Ed|34650
+104|Mark|92004
+------------------------------------------------------------------------------------------------
+	WELCOME TO THE DATABASE OF GROUP PROJECT2 PROBLEM2
+------------------------------------------------------------------------------------------------
+Please Enter your option(1-4):
+1. Add the data from the PL-SQL into CUSTOMER
+2. Update Translator Salaries
+3. See all the data from Translatortable and Customer Table
+4. Quit
+
+Please take care. The System is CASE-SENSITIVE
+
+2
+Translator Table before Update
+Translator_ID|TRANSLATOR_NAME|SALARY
+101|Mark|60343.2
+102|Black|28875
+103|Ed|34650
+104|Mark|92004
+The System is CASE-SENSITIVE
+Author_Name
+Morgan
+Cruz
+Adams
+Perry
+Derek
+Derek
+Lewis
+Alice
+Insert Author Name from Above
+Cruz
+Translator Table AFTER Update
+Translator_ID|TRANSLATOR_NAME|SALARY
+101|Mark|61550.064
+102|Black|31762.5
+103|Ed|36382.5
+104|Mark|93844.08
+------------------------------------------------------------------------------------------------
+	WELCOME TO THE DATABASE OF GROUP PROJECT2 PROBLEM2
+------------------------------------------------------------------------------------------------
+Please Enter your option(1-4):
+1. Add the data from the PL-SQL into CUSTOMER
+2. Update Translator Salaries
+3. See all the data from Translatortable and Customer Table
+4. Quit
+
+Please take care. The System is CASE-SENSITIVE
+
+3
+Customer Table
+Author_ID | Author_Name | Age | Number of Publications
+200|John|10|Children
+201|Emily|7|Adult
+202|Ashely|19|Adult
+203|Edward|3|Children
+204|Wu|12|Adult
+205|SaiTeja|13|Adult
+206|Ivan|7|Children
+207|Prithvi|10|Anything
+Translator Table
+Translator_ID|TRANSLATOR_NAME|SALARY
+101|Mark|61550.064
+102|Black|31762.5
+103|Ed|36382.5
+104|Mark|93844.08
+------------------------------------------------------------------------------------------------
+	WELCOME TO THE DATABASE OF GROUP PROJECT2 PROBLEM2
+------------------------------------------------------------------------------------------------
+Please Enter your option(1-4):
+1. Add the data from the PL-SQL into CUSTOMER
+2. Update Translator Salaries
+3. See all the data from Translatortable and Customer Table
+4. Quit
+
+Please take care. The System is CASE-SENSITIVE
+
+4
+Thank You for using the Program

@@ -1,0 +1,6 @@
+This message is to confirm that an Oracle Database has been created for you.
+   hostname: oracle.cs.ou.edu
+   port: 1521
+   Service name: pdborcl.cs.ou.edu
+   Username: kadi0000
+   Password: XWza6Tc8

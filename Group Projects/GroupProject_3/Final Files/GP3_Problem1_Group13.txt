@@ -1,0 +1,13 @@
+
+BTITLE                    CATEGORY                EDITION
+------------------------- -------------------- ----------
+War and Peace             Novel                        17
+
+
+Index BOOK_EDITION_INDEX created.
+
+
+BTITLE                    CATEGORY                EDITION
+------------------------- -------------------- ----------
+War and Peace             Novel                        17
+

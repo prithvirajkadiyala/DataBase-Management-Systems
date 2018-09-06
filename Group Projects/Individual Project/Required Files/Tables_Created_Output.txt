@@ -1,0 +1,84 @@
+
+Table PERSON created.
+
+
+Table EMERGENCY created.
+
+
+Table CLIENT created.
+
+
+Table NEEDS created.
+
+
+Table INSURANCE_POLICY created.
+
+
+Table HAS_INSUANCE created.
+
+
+Table TEAM created.
+
+
+Table CARES created.
+
+
+Table VOLUNTEERS created.
+
+
+Table EMPLOYEE created.
+
+
+Table DONORS created.
+
+
+Table CONTAINS created.
+
+
+Table LEADS created.
+
+
+Table ACTIVE created.
+
+
+Table CHARGES_EXPENSES created.
+
+
+Table TEAM_EMPLOYEE_REPORT created.
+
+
+Table DONORS_DONATE created.
+
+
+Table DONORS_DONATE_CHECK created.
+
+
+Table DONORS_DONATE_CARD created.
+
+
+Table EXTERNAL_ORGANIZATION created.
+
+
+Table AFFILIATES created.
+
+
+Table CHURCH created.
+
+
+Table BUSINESS created.
+
+
+Table SPONSOR created.
+
+
+Table ORGANIZATION_DONOR created.
+
+
+Table ORGANIZATION_DONATE created.
+
+
+Table ORGANIZATION_DONATE_CHECK created.
+
+
+Table ORGANIZATION_DONATE_CARD created.
+
